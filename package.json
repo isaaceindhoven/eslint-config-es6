@@ -1,0 +1,57 @@
+{
+  "name": "@isaac.frontend/eslint-config-es6",
+  "version": "1.0.7",
+  "description": "Isaac base JS ESLint config for ES6, following our styleguide",
+  "main": "index.js",
+  "homepage": "https://www.npmjs.com/package/@isaac.frontend/eslint-config-es6",
+  "bugs": {
+    "url": "https://github.com/isaaceindhoven/eslint-config-es6/issues",
+    "email": "ferry.brouwer@isaac.nl"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Isaac BV",
+    "url": "https://www.isaac.nl"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "contributors": [
+    {
+      "name": "Koen Peters",
+      "email": "koen.peters@isaac.nl"
+    },
+    {
+      "name": "Ferry Brouwer",
+      "email": "ferry.brouwer@isaac.nl"
+    }
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "EcmaScript6",
+    "ES6",
+    "isaac",
+    "javascript",
+    "styleguide"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0",
+    "eslint": "^4.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaaceindhoven/eslint-config-es6"
+  },
+  "devDependencies": {
+    "release-it": "^7.3.0"
+  }
+}
