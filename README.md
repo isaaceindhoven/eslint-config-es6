@@ -73,3 +73,7 @@ Now setup Visual Studio Code to use autoformat on file save. Open VS Code Worksp
 ### Updating this package
 
 Please make sure you've created an user on npmjs and you have the rights to publish this package within the organisation [@isaac.frontend](https://www.npmjs.com/org/isaac.frontend). If not, please contact one of the contributors, defined in the package.json.
+
+For release a new version use [release-it](https://www.npmjs.com/package/release-it).
+
+After you've cloned this repository, did a `npm install`, edited and you're ready for a new release, just use `npm run release ${patch|minor|major}` in order to update git and publish to npmjs registry. Make shure you're registered with you SSH key to git and have a valid npm user to publish.
