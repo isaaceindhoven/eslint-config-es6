@@ -12,6 +12,7 @@ module.exports = {
     },
   },
   rules: {
+    indent: ['error', 4],
     semi: [2, 'never'],
     'linebreak-style': 0,
   },
