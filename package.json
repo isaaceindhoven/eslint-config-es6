@@ -1,6 +1,6 @@
 {
   "name": "@isaac.frontend/eslint-config-es6",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Isaac base JS ESLint config for ES6, following our styleguide",
   "main": "index.js",
   "homepage": "https://www.npmjs.com/package/@isaac.frontend/eslint-config-es6",
