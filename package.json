@@ -52,6 +52,6 @@
     "url": "https://github.com/isaaceindhoven/eslint-config-es6"
   },
   "devDependencies": {
-    "release-it": "^7.3.0"
+    "release-it": "^15.6.0"
   }
 }
